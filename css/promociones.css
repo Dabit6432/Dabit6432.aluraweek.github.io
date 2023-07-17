@@ -1,7 +1,7 @@
 /* Promos */
 
 .promos {
-    background-image: url(/img/banner-mario.jpg);
+    background-image: url(../img/banner-mario.jpg);
     background-size: cover;
     height: 25rem;
 }
